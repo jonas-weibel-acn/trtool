@@ -1,2 +1,1 @@
-# trtool
-time report tool
+currentVersion=5
